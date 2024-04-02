@@ -1,0 +1,131 @@
+.margen {
+display: flex;
+color: #60220B;
+background-color:#F7E1AF;
+align-items:center;
+ gap: 10px;
+
+ 
+
+}
+
+.margen h1 {
+    font-family: 'bakery';
+
+
+}
+
+.margen img {
+
+width: 200px;
+
+}
+
+.margen a {
+
+text-decoration: none;
+
+color: red;
+padding: 30px;
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.segunda-parte {
+display: flex;
+background-color:#DB9D47;
+gap: 50px;
+padding: 30px 3px 30px 5px;
+align-items: center;
+flex-direction: row;
+justify-content: center;
+
+
+}
+
+
+.segunda-parte img {
+
+width: 300px;
+
+
+}
+
+
+.segunda-parte h1 {
+ font-family: 'gobold';
+    
+
+
+
+
+}
+
+
+
+
+
+
+
+.terceira-parte {
+display: flex;
+background-image: url(/puplic/images/v300batch2-nunoon-13.jpg);
+
+
+
+
+
+}
+
+
+.terceira-parte img {
+width: 500px;
+margin: 50px;
+
+}
+
+
+
+
+
+.textos-3 {
+
+text-align: center;
+font-size: x-large;
+margin-top: 200px;
+
+
+}
+
+
+
+.textos-3 h1 {
+color: #FD5808;
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
